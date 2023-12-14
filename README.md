@@ -57,7 +57,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9qwr&include_all_commits=true&theme=synthwave&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=9qwr">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9qwr&langs_count=10&hide=html,css,makefile,batchfile&theme=synthwave">
 </div>
