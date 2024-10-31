@@ -2,7 +2,7 @@
  
  # Find Me ❤
 [![Instagram Badge](https://img.shields.io/badge/-j4s_8-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/j4s_8/)](https://instagram.com/j4s_8)
-[![Twitter Badge](https://img.shields.io/badge/-@j4s_8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/j4s_8)](https://twitter.com/j4s_8)
+
 
 
 ```nasm
