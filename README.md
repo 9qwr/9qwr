@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Freelance Security Researcher!
+# 👋 Hello, I'm a Freelance Security Researcher
 
 🔍 I focus on mobile and web application security.  
 📱 iOS apps, APIs, and web platforms are my main areas of interest.  
